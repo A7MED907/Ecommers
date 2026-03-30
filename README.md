@@ -1,7 +1,5 @@
 
-  # Gift Shop E-commerce Application
-
-This is a code bundle for Gift Shop E-commerce Application.
+  #E-commerce Application
 
 ## Running the code
 
